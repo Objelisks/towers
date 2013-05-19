@@ -1,0 +1,264 @@
+	T
+	O
+	W
+	E
+____R____
+
+(to do high level pitch)
+
+
+
+*words of wisdom*
+	words of wisdom
+	scholars
+	protected by its own remoteness
+	A long time ago something existed that was not defined by name or known in its form. It blocked the sky and the earth.
+	A cage went in search of a bird
+	No longer gods
+
+*artistic direction*
+	shadow of the colossus
+	tower of babel (pieter edition)
+	http://butdoesitfloat.com/How-can-you-hide-from-what-never-goes-away
+	http://magiccards.info/query?q=tower&v=card&s=cname
+	color accents created with shadows and form
+
+*tower style (i.e. rules to break)*
+	central column
+	radially symmetric
+	tall thin cylinder
+	stone
+	penthouse
+	airflow important
+	light flowing out of the top in lines
+	nothing else should be taller than tower in that area
+
+*types of towers*
+	made of earth solid rock, grass
+	stone turbine
+	globes
+	lighthouse
+	floating
+	brutalism
+
+*game mechanics*
+	factions
+	rock with high poly count face, dynamic carvable runes
+	don't make it so flat, needs some climbing, sailing
+	abstract representations
+		individual npcs
+			symbolic speech
+			growing food
+			gathering food
+	story breadcrumbs
+		one or two malevolent? npcs trying to destroy the towers for Reasons
+		player can join them, share the power
+		or try to stop them by multiple means, preserve global power
+	pogonomancy
+		beard magic
+
+idea: towers provide magic for inhabitants of world, enhanced for nearby dwellers. player can destroy tower, taking power for self, but denying it to the rest of the world
+	show previously destroyed towers
+	perhaps an npc who did this themselves
+		death spell
+
+*metaphysics*
+	heat
+	sealevel
+	information
+
+*shader ideas*
+	do something that stretches vertices as y(up) goes up
+	horizon, spherical world
+
+
+*environment*
+	towers
+		nothing immediately surrounding towers
+		nothing taller than towers within eyesight except natural formations
+		test natural formation destruction by towers
+	villages
+
+*where to start*
+	landscape
+	villages, supermega low poly
+	movement, transport
+	MAKE A WORLD THEN FILL IT WITH THINGS
+	I think i would like the terrain that loads y values from data as you move
+		move only camera y position, based on terrain not player height
+
+*code structure*
+	player
+	terrain
+		rocks
+		trees
+	village
+		buildings
+		npcs
+	tower
+		npcs
+	magic
+		effects
+		runes
+
+
+watchers
+	too cliche, not enough interaction potential
+maybe each tower provides a single spell
+	supertech in fantasy world
+	store locations of all towers, when you cast a spell, light travels from location of tower over horizon to self
+
+
+
+
+
+
+
+!!!!!!!!!!objectives immediatement!!!!!!!!!!
+
+area designer
+
+linked areas
+
+life
+	sprites
+
+model class
+
+
+
+
+
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
+
+???????????things to think about????????????
+
+tree spawn areas?
+	hand place them dude
+
+eye level
+ perspectives
+
+decide on animation format
+
+
+
+
+
+
+????????????????????????????????????????????
+
+
+
+
+
+
+
+colors
+	steel blue
+	grey
+	matte white
+	scattered desaturated green
+
+PALETTE in approximately this order
+	green: 0x94BA5D
+	light blue: 0x76EDED
+	orange: 0xFFB980
+	pink: 0xF87CB4
+	brown: 0xBF9F60
+	yellow: 0xFFFA80
+	purple: 0xBE80F0
+	dark blue: 0x85A5F0
+	reddish: 0xFF6155
+
+soundtrack
+	chill/triphop/ambient
+	baths
+	black sun empire
+	amon tobin
+
+shapes
+	large asymmetric rocks instead of mountains
+	mound shaped hills
+	stark contrast with towers
+	rivers, lakes slow moving tho
+	not a lot of elevation changes
+
+
+So, we've got a bunch of giant towers, each one unique in its entirety.
+They are unique because an individual designed and built it for some reason.
+The Architects
+	self imposed gods
+	watchers
+Telescopes
+It is not allowed (re: structures taller than towers)
+castles in the stone
+
+Relative location of the towers
+Inhabitants of the towers
+Purpose of the towers
+	line of sight
+	stabilizes reality?
+		architects are creators of the reality outside of their tower
+		the edges of their influence fade into nothingness and unreason
+
+Outsider view of the towers
+
+
+The parts of a tower have their own names, The Gate of Janus
+Disguised towers
+	hidden within a hill
+	buried like missile silo
+	off the side of a cliff
+		vertically, horizontally |---_
+Building a tower
+	The Gate
+	The Aperture
+	The Culmination
+	The Thesis
+	The Antithesis
+	The Ascension
+
+Agriculture (crops, farming methods, harvest)
+Architecture (aesthetic styles, buildings, materials, streets, waste disposal, walls or defensive structures)
+Art, visual (common art forms practiced, styles, how are artists supported, how important is art/what is its societal role?, religious art)
+Art, performing, non-musical (dance, theater, street performers)
+Calendar/Holidays (harvest, solstice/equinox, other)
+Climate (average rainfall and temperature, noteworthy adverse weather conditions)
+Crafts (local materials, level of technology, relative worth of materials, styles, kilns, forges, and furnaces)
+Crime (criminal underground, common crimes, contraband, illegal magic)
+Cuisine (beverages, dietary restrictions, methods of preparation, range of foods, spices used, typical meals)
+Dangers (native beasties, likely pitfalls of visitors, diseases)
+Economy (coinage, employment)
+Education (schools, apprenticeships, higher education/sages)
+Entertainment (gambling, festivals, sports, games, what do they do for fun?)
+Environment (flora, fauna, geology, water, biome)
+Etiquette (dining, grooming, group functions, formal vs casual, taboos, bodily functions, behavior around offspring)
+Humor (satire)
+Industry
+Family Structure (extended family, living situation, marriage, child rearing)
+Fashion (clothing styles, materials, different social groups, body modification, cosmetics)
+Foreign Relations
+Government (selection, church & state, important ruling figures/offices)
+History
+Languages (writing, accents, dialects)
+Law Enforcement (watch/guard details, honest or corrupt, punishment)
+Laws (how formed, how codified? how consistently applied?, criminal laws, civil laws, religious laws)
+Literature (poetry)
+Livestock (mounts, pets, hunting animals, food production)
+Magical Traditions
+Medicine/Health (who is it available to?, magic or science?)
+Military (special units, army, navy, air force, siege weapons)
+Music (instruments, styles)
+Naming Conventions (surnames, nicknames)
+Religious Traditions (rites of passage, death rites, daily/weekly practices, mythology, marriage)
+Romance (casual sex, courtship/dating, what is considered attractive?)
+Secret Societies/Mystery cults
+Social Classes
+Subcultures
+Superstitions (lucky charms, ill omens)
+Technology
+Transportation
+Trade
